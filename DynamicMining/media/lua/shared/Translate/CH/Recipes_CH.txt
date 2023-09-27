@@ -9,7 +9,7 @@ Recipes_CH = {
 	Recipe_Mine_Aluminum						= "挖掘鋁礦",
 	Recipe_Mine_Silver							= "挖掘銀礦",
 	Recipe_Mine_Gold							= "挖掘金礦",
-	Recipe_Stomp_Rock_Salt_to_Salt				= "將岩鹽踐踏成鹽",
-	Recipe_Break_down_Coal_Ore_to_Charcoal		= "將煤礦破碎成木炭",
+	Recipe_Stomp_Rock_Salt_to_Salt				= "將岩鹽磨碎成鹽",
+	Recipe_Break_down_Coal_Ore_to_Charcoal		= "將煤礦打碎成木炭",
 
 }
